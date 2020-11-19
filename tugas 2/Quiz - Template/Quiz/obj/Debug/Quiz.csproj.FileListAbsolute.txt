@@ -1,0 +1,27 @@
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.FrmEnqueryData.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.FrmFilter.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Dapper.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\bin\Debug\Dapper.xml
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-12\Quiz\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\bin\Debug\Quiz.exe
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\bin\Debug\Quiz.pdb
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\bin\Debug\Dapper.dll
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\bin\Debug\Dapper.xml
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.FrmEnqueryData.resources
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.FrmFilter.resources
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.exe
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\tugas 2\Quiz - Template\Quiz\obj\Debug\Quiz.pdb
